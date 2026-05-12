@@ -2,6 +2,10 @@
 
 Une interface météo interactive et ultra-moderne pour **Home Assistant**, utilisant les principes du **Glassmorphism**. Cette carte offre un rendu visuel dynamique en temps réel avec des effets de particules (pluie, neige, étoiles) basés sur l'état de vos capteurs.
 
+## 📸 Aperçu du Dashboard
+
+![Interface Météo HA](https://github.com/xez7082/meteo/blob/main/meteo.png?raw=true)
+
 ---
 
 ## ✨ Points forts
